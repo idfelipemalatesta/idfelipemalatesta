@@ -26,7 +26,7 @@
 
 ---
 
-### Latest Courses
+### Latest Courses:
 * [Machine Learning in Excel - 365 Data Science](https://365datascience.com/courses/machine-learning-in-python/)
 * [Machine Learning Specialization - Coursera/Stanford University](https://www.coursera.org/specializations/machine-learning-introduction)
 * [Feature Engineering - Kaggle Learn](https://www.kaggle.com/learn/feature-engineering)
