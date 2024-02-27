@@ -2,7 +2,7 @@
 
 ## Aqui está uma breve introdução sobre mim.
 
-Sou formado em Administração de Banco de Dados e Business Intelligence pela FIAP e estou migrando para a área de Ciência de Dados já faz mais de 2 anos. Sou um entusiasta em assuntos como Inteligência Artificial, Ciência de Dados, Machine Learning, Visão Computacional e áreas correlatas.
+Sou formado em Administração de Banco de Dados e Business Intelligence pela FIAP e atualmente estou Pós-Graduando na área de Ciência de Dados pela Universidade Presbiteriana Mackenzie. Sou um entusiasta em assuntos como Inteligência Artificial, Ciência de Dados, Machine Learning, Visão Computacional e áreas correlatas.
 
 ---
 
