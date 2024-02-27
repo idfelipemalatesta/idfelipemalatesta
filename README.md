@@ -16,4 +16,4 @@ Sou formado em Administração de Banco de Dados e Business Intelligence pela FI
 
 ---
 
-### Link para meu Portifolio de [Data Science & Machine Learning](https://github.com/dimitreOliveira/MachineLearning) :robot:
+### Link para meu Portifolio de [Data Science & Machine Learning](https://github.com/idfelipemalatesta/MachineLearning) :robot:
