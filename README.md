@@ -1,4 +1,4 @@
-# Seja Bem Vindo
+# Sejam bem-vindos!
 
 ## Aqui está uma breve introdução sobre mim.
 
