@@ -14,5 +14,5 @@ Tecnologias:
 - Jenkins CI/CD
 - MLFlow
 
-Link para meu portfólio: Em Atualização ...
+Link para o portfólio: [Projetos de Data Science/Machine Learning & MLOps](https://github.com/idfelipemalatesta/MachineLearning)
 
