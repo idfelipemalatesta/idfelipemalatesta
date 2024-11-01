@@ -7,11 +7,11 @@ Formado em Administração de Banco de Dados e Business Intelligence pela FIAP e
 Tecnologias:
 
 - Python
-- SQL
-- Docker
-- Jenkins
-- GitHub Actions
+- SQL Queries
 - AWS (EC2, S3, SageMaker)
+- Docker
+- Git & GitHub
+- Jenkins CI/CD
 - MLFlow
 
 Link para meu portfólio: Em Atualização ...
