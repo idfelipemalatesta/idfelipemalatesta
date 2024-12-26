@@ -9,7 +9,7 @@ Tenho experiência na metodologia CRISP-DM, que abrange todas as etapas do ciclo
 Competências:<br>
 • Python: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, etc. <br>
 • SQL Queries <br>
-• AWS (EC2, S3, SageMaker) <br>
+• AWS (EC2, ECR, S3, SageMaker) <br>
 • Docker <br>
 • Git e GitHub: Versionamento de código <br>
 • Jenkins CI/CD <br>
