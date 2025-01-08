@@ -2,7 +2,7 @@
 
 ## Aqui está uma breve introdução sobre mim.
 
-Olá! Sou Cientista de Dados com mais de 3 anos de experiência em desenvolvimento e implementação de projetos nas áreas de Ciência de Dados e Machine Learning. Possuo graduação em Administração de Banco de Dados e Business Intelligence pela FIAP e atualmente estou pós-graduando em Ciência de Dados pela Universidade Presbiteriana Mackenzie.
+Perfil analítico com mais de 9 anos de experiência e estudo na área de TI. Possuo Pós-Graduação em Ciência de Dados pela Universidade Presbiteriana Mackenzie e sou graduado em Administração de Banco de Dados e Business Intelligence pela FIAP. Os últimos 4 anos foram dedicados ao desenvolvimento e implementação de projetos nas áreas de Ciência de Dados e Machine Learning.
 
 Tenho experiência na metodologia CRISP-DM, que abrange todas as etapas do ciclo de vida de projetos de Data Science: desde o entendimento do negócio, limpeza e preparação dos dados, análise exploratória para obter insights, modelagem preditiva utilizando técnicas de Machine Learning para aprendizado supervisionado e não supervisionado, além da capacidade de gerar relatórios e interpretar o resultado do modelo para a área de negócio.
 
