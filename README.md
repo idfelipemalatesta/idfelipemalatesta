@@ -9,11 +9,11 @@ Tenho experiência na metodologia CRISP-DM, que abrange todas as etapas do ciclo
 Competências:<br>
 • Python: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, etc. <br>
 • SQL Queries <br>
-• AWS (EC2, ECR, S3, SageMaker) <br>
-• Docker <br>
+• AWS - EC2, ECR, S3, EC2 e SageMaker <br>
+• Docker, FastAPI <br>
 • Git e GitHub: Versionamento de código <br>
-• Jenkins CI/CD <br>
-• MLflow <br>
+• Jenkins CI/CD, GitHub Actions <br>
+• MLflow, Optuna - Otimização de Hiperparâmetros<br>
 • Machine Learning: Algoritmos supervisionados e não supervisionados para Classificação, Regressão e Clusterização. Conhecimento e contato com os principais algoritmos como Regressão Linear, Regressão Logística, SVM, Decision Tree, algoritmos ensemble como Random Forest e Gradient Boosting (XGB, LightGBM), K-Means e PCA (Principal Component Analysis). <br>
 • Probabilidade e Estatística: Descritiva e inferencial, conhecimentos como testes de hipótese, testes A/B e intervalos de confiança. <br>
 
