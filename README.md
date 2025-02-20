@@ -1,33 +1,21 @@
-# Seja bem-vindo(a)!
+# Welcome!👋
 
-## Aqui está uma breve introdução sobre mim.
-
-Perfil analítico com mais de 9 anos de experiência e estudo na área de TI. Possuo Pós-Graduação em Ciência de Dados pela Universidade Presbiteriana Mackenzie e sou graduado em Administração de Banco de Dados e Business Intelligence pela FIAP. Os últimos 4 anos foram dedicados ao desenvolvimento e implementação de projetos nas áreas de Ciência de Dados e Machine Learning.
-
-Tenho experiência na metodologia CRISP-DM, que abrange todas as etapas do ciclo de vida de projetos de Data Science: desde o entendimento do negócio, limpeza e preparação dos dados, análise exploratória para obter insights, modelagem preditiva utilizando técnicas de Machine Learning para aprendizado supervisionado e não supervisionado, além da capacidade de gerar relatórios e interpretar o resultado do modelo para a área de negócio.
-
-Competências:<br>
-• Python: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Streamlit, etc. <br>
-• SQL Queries <br>
-• AWS - EC2, ECR, S3, EC2 e SageMaker <br>
-• Docker, FastAPI <br>
-• Git e GitHub: Versionamento de código <br>
-• Jenkins CI/CD, GitHub Actions <br>
-• MLflow, Optuna - Otimização de Hiperparâmetros<br>
-• Machine Learning: Algoritmos supervisionados e não supervisionados para Classificação, Regressão e Clusterização. Conhecimento e contato com os principais algoritmos como Regressão Linear, Regressão Logística, SVM, Decision Tree, algoritmos ensemble como Random Forest e Gradient Boosting (XGB, LightGBM), K-Means e PCA (Principal Component Analysis). <br>
-• Probabilidade e Estatística: Descritiva e inferencial, conhecimentos como testes de hipótese, testes A/B e intervalos de confiança. <br>
+- 👨‍💻 Sou um cientista de dados orientado a resultados, com quatro anos de experiência na área e passagem como analista de dados. Tenho habilidade para interpretar os resultados de modelos de Machine Learning e traduzi-los em insights para o negócio. Estou sempre me atualizando para utilizar as melhores ferramentas na operacionalização de modelos de IA.
+- 📚 Tenho conhecimento em Python (pandas, numpy, matplotlib, seaborn, scikit-learn, streamlit, FastAPI), Machine Learning (classificação, regressão, clusterização e séries temporais), SQL, PySpark, arquitetura AWS voltada para ML, Git e Github (versionamento), Estatística (descritiva, inferencial, testes de hipótese e intervalo de confiança) e Linux.
 
 ------------
 ### Data Science:
 
-- **Classificação**: Projeto End-to-End com Deploy utilizando Streamlit: [link](https://github.com/idfelipemalatesta/telecom-churn-prediction)
-- **Regressão**: MLflow-Experiment Tracking com Optuna e XGBoost: [link](https://github.com/idfelipemalatesta/bike-demand)
-- **Time Series**: Machine Learning aplicando Regressão com LightGBM: [link](https://github.com/idfelipemalatesta/walmart-store-sales-forecast)
-- **Clusterização**: RFM, Elbow Method e Silhouette Score com KMeans : [link](https://github.com/idfelipemalatesta/customer-segmentation)
-- Estudo dos **Métodos Ensemble**: Voting, Bagging, Boosting e Stacking: [link](https://github.com/idfelipemalatesta/ensemble-methods)
-
-
------------------
+- Classificação
+  - [Projeto End-to-End com Deploy utilizando Streamlit](https://github.com/idfelipemalatesta/telecom-churn-prediction)
+- Regressão
+    - [MLflow-Experiment Tracking com Optuna e XGBoost](https://github.com/idfelipemalatesta/bike-demand)
+- Time-series
+  - [Machine Learning aplicando Regressão com LightGBM](https://github.com/idfelipemalatesta/walmart-store-sales-forecast)
+- Clusterização
+  - [RFM, Elbow Method e Silhouette Score com KMeans](https://github.com/idfelipemalatesta/customer-segmentation)
+- Métodos Ensemble
+  - [Voting, Bagging, Boosting e Stacking](https://github.com/idfelipemalatesta/ensemble-methods)
 
 
 
