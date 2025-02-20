@@ -20,11 +20,12 @@ Competências:<br>
 ------------
 ### Data Science:
 
-- Classificação: Projeto End-to-End para previsão de cancelamento de serviço (Churn) com Deploy web utilizando Streamlit: [link](https://github.com/idfelipemalatesta/telecom-churn-prediction)
-- Estudo dos métodos Ensemble: Voting, Bagging, Boosting e Stacking: [link](https://github.com/idfelipemalatesta/ensemble-methods)
-- Clusterização: Projeto de Marketing Analytics para segmentar clientes. Aplicado a técnica RFM e o algoritmo KMeans: [link](https://github.com/idfelipemalatesta/customer-segmentation)
-- Time Series: Projeto para previsão de vendas em lojas do Walmart utilizando técnica de Regressão com o algoritmo LightGBM: [link](https://github.com/idfelipemalatesta/walmart-store-sales-forecast)
-- Regressão: Projeto de previsão de demanda aplicando otimização de hiperparametros com Optuna e XGBoost e MLflow-Experiment Tracking: [link]
+- **Classificação**: Projeto End-to-End com Deploy utilizando Streamlit: [link](https://github.com/idfelipemalatesta/telecom-churn-prediction)
+- **Regressão**: MLflow-Experiment Tracking com Optuna e XGBoost: [link](https://github.com/idfelipemalatesta/bike-demand)
+- **Time Series**: Machine Learning aplicando Regressão com LightGBM: [link](https://github.com/idfelipemalatesta/walmart-store-sales-forecast)
+- **Clusterização**: RFM, Elbow Method e Silhouette Score com KMeans : [link](https://github.com/idfelipemalatesta/customer-segmentation)
+- Estudo dos **Métodos Ensemble**: Voting, Bagging, Boosting e Stacking: [link](https://github.com/idfelipemalatesta/ensemble-methods)
+
 
 -----------------
 
