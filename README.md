@@ -4,7 +4,7 @@
 - 📚 Tenho conhecimento em Python (pandas, numpy, matplotlib, seaborn, scikit-learn, streamlit, FastAPI), Machine Learning (classificação, regressão, clusterização e séries temporais), SQL, PySpark, arquitetura AWS voltada para ML, Git e Github (versionamento), Estatística (descritiva, inferencial, testes de hipótese e intervalo de confiança) e Linux.
 
 ------------
-### Data Science:
+## Projetos de Data Science
 
 - Classificação
   - [Projeto End-to-End com Deploy utilizando Streamlit](https://github.com/idfelipemalatesta/telecom-churn-prediction)
