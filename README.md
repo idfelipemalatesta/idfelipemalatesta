@@ -17,5 +17,16 @@ Competências:<br>
 • Machine Learning: Algoritmos supervisionados e não supervisionados para Classificação, Regressão e Clusterização. Conhecimento e contato com os principais algoritmos como Regressão Linear, Regressão Logística, SVM, Decision Tree, algoritmos ensemble como Random Forest e Gradient Boosting (XGB, LightGBM), K-Means e PCA (Principal Component Analysis). <br>
 • Probabilidade e Estatística: Descritiva e inferencial, conhecimentos como testes de hipótese, testes A/B e intervalos de confiança. <br>
 
-Link para o portfólio: [Projetos de Data Science/Machine Learning & MLOps](https://github.com/idfelipemalatesta/MachineLearning)
+------------
+### Data Science:
+
+- Classificação: Projeto End-to-End para previsão de cancelamento de serviço (Churn) com Deploy web utilizando Streamlit: [link](https://github.com/idfelipemalatesta/telecom-churn-prediction)
+- Estudo dos métodos Ensemble: Voting, Bagging, Boosting e Stacking: [link](https://github.com/idfelipemalatesta/ensemble-methods)
+- Clusterização: Projeto de Marketing Analytics para segmentar clientes. Aplicado a técnica RFM e o algoritmo KMeans: [link](https://github.com/idfelipemalatesta/customer-segmentation)
+- Time Series: Projeto para previsão de vendas em lojas do Walmart utilizando técnica de Regressão com o algoritmo LightGBM: [link](https://github.com/idfelipemalatesta/walmart-store-sales-forecast)
+- Regressão: Projeto de previsão de demanda aplicando otimização de hiperparametros com Optuna e XGBoost e MLflow-Experiment Tracking: [link]
+
+-----------------
+
+
 
