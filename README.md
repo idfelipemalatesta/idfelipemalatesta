@@ -16,6 +16,9 @@
   - [RFM, Elbow Method e Silhouette Score com KMeans](https://github.com/idfelipemalatesta/customer-segmentation)
 - Métodos Ensemble
   - [Voting, Bagging, Boosting e Stacking](https://github.com/idfelipemalatesta/ensemble-methods)
+- AWS Cloud
+  -  Sagemaker + Lambda + API Gateway
+  -  Integração AWS com MLflow
 
 
 
