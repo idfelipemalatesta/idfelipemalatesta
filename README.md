@@ -2,6 +2,7 @@
 
 - 👨‍💻 Sou um cientista de dados orientado a resultados, com quatro anos de experiência na área e passagem como analista de dados. Tenho habilidade para interpretar os resultados de modelos de Machine Learning e traduzi-los em insights para o negócio. Estou sempre me atualizando para utilizar as melhores ferramentas na operacionalização de modelos de IA.
 - 📚 Tenho conhecimento em Python (pandas, numpy, matplotlib, seaborn, scikit-learn, streamlit, FastAPI), Machine Learning (classificação, regressão, clusterização e séries temporais), Docker, SQL, PySpark, arquitetura AWS voltada para ML, Git e Github (versionamento), Estatística (descritiva, inferencial, testes de hipótese e intervalo de confiança) e Linux (SO e comandos no terminal).
+- Atualmente estudando Visão Computacional - Always Learning!
 
 ------------
 ## Projetos de Data Science
