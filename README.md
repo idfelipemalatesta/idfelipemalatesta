@@ -9,7 +9,7 @@
 - Classificação
   - [Projeto de Churn End-to-End com Deploy utilizando Streamlit](https://github.com/idfelipemalatesta/telecom-churn-prediction)
 - Regressão
-    - Bike Demand com MLflow-Experiment Tracking com Optuna e XGBoost
+    - Bike Demand com MLflow-Experiment Tracking, Optuna e XGBoost
 - Time-series
   - [Walmart Forecast com Machine Learning utilzando LightGBM](https://github.com/idfelipemalatesta/walmart-store-sales-forecast)
 - Clusterização
