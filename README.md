@@ -7,11 +7,11 @@
 ## Projetos de Data Science
 
 - Classificação
-  - [Projeto End-to-End com Deploy utilizando Streamlit](https://github.com/idfelipemalatesta/telecom-churn-prediction)
+  - [Projeto de Churn End-to-End com Deploy utilizando Streamlit](https://github.com/idfelipemalatesta/telecom-churn-prediction)
 - Regressão
-    - [MLflow-Experiment Tracking com Optuna e XGBoost](https://github.com/idfelipemalatesta/bike-demand)
+    - Bike Demand com MLflow-Experiment Tracking com Optuna e XGBoost
 - Time-series
-  - [Machine Learning aplicando Regressão com LightGBM](https://github.com/idfelipemalatesta/walmart-store-sales-forecast)
+  - [Walmart Forecast com Machine Learning utilzando LightGBM](https://github.com/idfelipemalatesta/walmart-store-sales-forecast)
 - Clusterização
   - [RFM, Elbow Method e Silhouette Score com KMeans](https://github.com/idfelipemalatesta/customer-segmentation)
 - Métodos Ensemble
