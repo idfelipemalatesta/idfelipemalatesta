@@ -9,6 +9,7 @@
 
 - Classificação
   - [Projeto de Churn End-to-End com Deploy utilizando Streamlit](https://github.com/idfelipemalatesta/telecom-churn-prediction)
+  - [Projeto com AWS Sagemaker + Lambda + API Gateway](https://github.com/idfelipemalatesta/sagemaker-lambda-api)
 - Regressão
     - [Bike Demand com MLflow-Experiment Tracking, Optuna e XGBoost](https://github.com/idfelipemalatesta/bike-demand)
 - Time-series
@@ -18,7 +19,6 @@
 - Métodos Ensemble
   - [Voting, Bagging, Boosting e Stacking](https://github.com/idfelipemalatesta/ensemble-methods)
 - AWS Cloud
-  -  Sagemaker + Lambda + API Gateway
   -  Integração AWS com MLflow
 
 
