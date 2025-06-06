@@ -15,5 +15,8 @@ Já implementei projetos que abrangem técnicas de classificação, regressão, 
 - [Previsão de Demanda](https://github.com/idfelipemalatesta/bike-demand) – Modelagem preditiva para estimar a demanda diária do aluguel de bicicletas, utilizando aprendizado supervisionado de regressão. O projeto tem como objetivo demonstrar a habilidade no uso de ferramentas de MLOps
 - [Estudo de Métodos Ensemble](https://github.com/idfelipemalatesta/ensemble-methods) - Voting, Bagging, Boosting e Stacking
 
+## Projetos de Data Engineering
+- [ETL - Data Quality](https://github.com/idfelipemalatesta/workshop-data_quality) - Projeto com o objetivo de assegurar a qualidade e a estrutura dos dados por meio de um processo de ETL. Os dados são extraídos de tabelas no PostgreSQL, passam por transformações e são carregados em um banco de dados DuckDB, além de contar com uma esteira de CI utilizando testes unitários para validação do código.
+
 
 
