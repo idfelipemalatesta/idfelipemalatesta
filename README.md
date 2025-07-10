@@ -16,7 +16,7 @@ Já implementei projetos que abrangem técnicas de classificação, regressão, 
 - [Estudo de Métodos Ensemble](https://github.com/idfelipemalatesta/ensemble-methods) - Voting, Bagging, Boosting e Stacking
 
 ## Projetos de Data Engineering
-- [ETL - Data Quality](https://github.com/idfelipemalatesta/workshop-data_quality) - Projeto com o objetivo de assegurar a qualidade e a estrutura dos dados por meio de um processo de ETL. Os dados são extraídos de tabelas no PostgreSQL, passam por transformações e são carregados em um banco de dados DuckDB, além de contar com uma esteira de CI utilizando testes unitários para validação do código.
+- [ETL w/ Data Quality](https://github.com/idfelipemalatesta/workshop-data_quality) - Projeto com o objetivo de assegurar a qualidade e a estrutura dos dados por meio de um processo de ETL. Os dados são extraídos de tabelas no PostgreSQL, passam por transformações e são carregados em um banco de dados DuckDB, além de contar com uma esteira de CI utilizando testes unitários para validação do código.
 - [CRUD](https://github.com/idfelipemalatesta/crud_fastapi_postgres) - Projeto de CRUD para gestão da tabela de produtos, com operações de criação, leitura, atualização e exclusão. O backend em Python com FastAPI recebe as requisições do frontend desenvolvido com Streamlit e realiza o armazenamento dos dados em um banco PostgreSQL. A aplicação é containerizada com Docker (docker compose), assegurando a integração entre os serviços.
 
 
